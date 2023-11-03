@@ -1,2 +1,2 @@
-# react-basics-project-starter-REVISED
-WINC Recipe App! REVISED
+# react-basics-project-starter
+WINC Recipe App!
